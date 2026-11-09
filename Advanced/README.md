@@ -10,11 +10,18 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 **Note:** You can choose any ONE of the available learning resources.
 
+### YouTube Courses
+
 | Resource | Notes |
 |---|---|
-| [Design Patterns – Resource 1](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) | |
-| [Design Patterns – Resource 2](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN) | |
-| [Metigator – Design Patterns Course](https://www.metigator.com/) | Paid Courses: You can purchase Essam Abdelnaby's Design Patterns Course |
+| [Esam](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN) | |
+| [ELmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) | |
+
+### Metigator
+
+| Resource | Notes |
+|---|---|
+| [Design Patterns Course](https://www.metigator.com/) | Paid Course by Essam Abdelnaby |
 | [Metigator Engineers Community](https://t.me/MetigatorEngineers) | Community |
 
 ---
@@ -25,23 +32,39 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [Unit Testing – Resource 1](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A) | |
-| [Unit Testing – Resource 2](https://www.youtube.com/playlist?list=PLsV97AQt78NS2O4QeWFVHOOALoehl22vU) | |
+| [Esam](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A) | |
+| [Elmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NS2O4QeWFVHOOALoehl22vU) | |
 
 ---
 
 ## 3. ASP.NET Core
 
+### YouTube & Pluralsight
+
 | Resource | Notes |
 |---|---|
-| [ASP.NET Core – Resource 1](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) | |
+| [Elmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) | |
 | [Pluralsight](https://www.pluralsight.com/) | |
-| [DevCreed – .NET REST API](https://www.devcreed.net/courses/details/dotnet-rest-api) | Paid – Recommended |
+
+### DevCreed
+
+| Resource | Notes |
+|---|---|
+| [.NET REST API](https://www.devcreed.net/courses/details/dotnet-rest-api) | Paid – Recommended |
+
+### Metigator
+
+| Resource | Notes |
+|---|---|
 | [Explanatory Video](https://www.youtube.com/watch?v=2VraSFzBWj4) | |
-| [Mastering ASP.NET Core: Concepts to Production-Ready APIs](https://metigator.teachable.com/p/mastering-asp-net-core-concepts-to-production-ready-apis/) | Paid – Recommended |
+| [Mastering ASP.NET Core: Concepts to Production-Ready APIs](https://metigator.teachable.com/p/mastering-asp-net-core-concepts-to-production-ready-apis/) | Paid Course by Essam Abdelnaby |
 | [Metigator Engineers Community](https://t.me/MetigatorEngineers) | Community |
-| [ASP.NET Core – Resource 2](https://www.youtube.com/playlist?list=PLNFDrRZdysFwoq6CpexoOMLqz5hjohoI3) | |
-| [Metigator – Web API Course](https://www.metigator.com/) | Paid Courses: You can purchase Essam Abdelnaby's Web API Course |
+
+### ITI
+
+| Resource | Notes |
+|---|---|
+| [ITI](https://www.youtube.com/playlist?list=PLNFDrRZdysFwoq6CpexoOMLqz5hjohoI3) | |
 
 ---
 
@@ -49,10 +72,10 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [ASP.NET Core MVC – Resource 1](https://www.youtube.com/watch?v=QPjp7kXvGsg&list=PL62tSREI9C-fqCIAWwBAfhoucD82mSOXp) | |
+| [Elhelaly](https://www.youtube.com/watch?v=QPjp7kXvGsg&list=PL62tSREI9C-fqCIAWwBAfhoucD82mSOXp) | |
 | [Pluralsight](https://www.pluralsight.com/) | |
-| [ASP.NET Core MVC – Resource 2](https://www.youtube.com/watch?v=x6TuKY4YMGo&list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL) | |
-| [DevCreed – .NET MVC Course](https://www.devcreed.net/courses/details/dotnet-mvc-course) | Paid |
+| [ITI](https://www.youtube.com/watch?v=x6TuKY4YMGo&list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL) | |
+| [DevCreed – MVC Course](https://www.devcreed.net/courses/details/dotnet-mvc-course) | Paid |
 
 ---
 
