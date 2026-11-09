@@ -76,11 +76,9 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 ## 4. Recommended Books
 
-| Resource | Notes |
-|---|---|
-| **Head First SQL** | Lynn Beighley |
-| **LINQ in Action** | Fabrice Marguerie, Steve Eichert & Jim Wooley |
-| **Entity Framework Core in Action** | |
+- **Head First SQL** by Lynn Beighley
+- **LINQ in Action** by Fabrice Marguerie, Steve Eichert & Jim Wooley
+- **Entity Framework Core in Action**
 
 ---
 
