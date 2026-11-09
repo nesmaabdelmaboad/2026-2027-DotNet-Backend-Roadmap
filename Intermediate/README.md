@@ -8,18 +8,32 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 **Note:** You can choose any ONE of the available resources.
 
+### Mohamed El Desouky
+
 | Resource | Notes |
 |---|---|
-| [Mohamed El Desouky](https://www.youtube.com/playlist?list=PL37D52B7714788190) | Fundamentals |
-| [Mohamed El Desouky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) | Advanced |
+| [Fundamentals](https://www.youtube.com/playlist?list=PL37D52B7714788190) | Fundamentals |
+| [Advanced](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) | Advanced |
 
-| [Esam Abdelnaby](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj) | |
+### Essam Abdelnaby
 
-| [MaharaTech – Course 1](https://maharatech.gov.eg/course/view.php?id=740) | Recommended |
-| [MaharaTech – Course 2](https://maharatech.gov.eg/course/view.php?id=2305) | Recommended |
-| [MaharaTech – Course 3](https://maharatech.gov.eg/course/view.php?id=2288) | Recommended |
+| Resource | Notes |
+|---|---|
+| [Database Course](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj) | |
 
-| [Metigator – Database Course](https://www.metigator.com/) | Paid Courses: You can purchase Essam Abdelnaby's DB Course |
+### MaharaTech
+
+| Resource | Notes |
+|---|---|
+| [Course 1](https://maharatech.gov.eg/course/view.php?id=740) | Recommended |
+| [Course 2](https://maharatech.gov.eg/course/view.php?id=2305) | Recommended |
+| [Course 3](https://maharatech.gov.eg/course/view.php?id=2288) | Recommended |
+
+### Metigator
+
+| Resource | Notes |
+|---|---|
+| [Database Course](https://www.metigator.com/) | Paid Course by Essam Abdelnaby |
 | [Metigator Engineers Community](https://t.me/MetigatorEngineers) | Community |
 
 ### Database Internals (Optional)
@@ -44,8 +58,8 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 | Resource | Notes |
 |---|---|
-| [LINQ - Esam Abdelnaby](https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=XIE0NtaPXWU-ZKn4) | |
-| [LINQ - Mohamed Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-c8OrLP_atJC_2PXqHKnUme) | |
+| [LINQ – Essam Abdelnaby](https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=XIE0NtaPXWU-ZKn4) | |
+| [LINQ – Mohamed Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-c8OrLP_atJC_2PXqHKnUme) | |
 
 ---
 
@@ -62,9 +76,11 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 ## 4. Recommended Books
 
-- **Head First SQL** by Lynn Beighley
-- **LINQ in Action** by Fabrice Marguerie, Steve Eichert & Jim Wooley
-- **Entity Framework Core in Action**
+| Resource | Notes |
+|---|---|
+| **Head First SQL** | Lynn Beighley |
+| **LINQ in Action** | Fabrice Marguerie, Steve Eichert & Jim Wooley |
+| **Entity Framework Core in Action** | |
 
 ---
 
