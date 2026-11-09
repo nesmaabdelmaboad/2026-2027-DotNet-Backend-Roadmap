@@ -13,7 +13,7 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 | Resource | Notes |
 |---|---|
 | [C# Fundamentals, OOP & Advanced C#](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l) | Covers C# Fundamentals, OOP, and Advanced C# |
-| [OOP Course](https://www.youtube.com/watch?v=vo_vktaAK9o&list=PL4n1Qos4Tb6QqbzOaDvrEAW8C9LN9VSzj&pp=0gcJCR0Ga94AFGB0) | Additional resource to complement the roadmap |
+| [OOP](https://www.youtube.com/watch?v=vo_vktaAK9o&list=PL4n1Qos4Tb6QqbzOaDvrEAW8C9LN9VSzj&pp=0gcJCR0Ga94AFGB0) | Additional resource to complement the roadmap |
 
 ### Mohamed Elmahdy
 
@@ -27,10 +27,10 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 
 | Resource | Notes |
 |---|---|
-| [Playlist 1](https://www.youtube.com/playlist?list=PLfHpC6JZ316dbrFn-jAwMBZwMqkcAabWB) | C# Learning Resources |
-| [Playlist 2](https://www.youtube.com/playlist?list=PLfHpC6JZ316f6YXKyux0dHjJXA0Kg38p7) | C# Learning Resources |
-| [Playlist 3](https://www.youtube.com/playlist?list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf) | C# Learning Resources |
-| [Playlist 4](https://www.youtube.com/playlist?list=PLfHpC6JZ316dwb3MN8W6XuBuyaTA8RVaW) | C# Learning Resources |
+| [Level A](https://www.youtube.com/playlist?list=PLfHpC6JZ316dbrFn-jAwMBZwMqkcAabWB) | C# |
+| [Level B](https://www.youtube.com/playlist?list=PLfHpC6JZ316f6YXKyux0dHjJXA0Kg38p7) | OOP |
+| [Level C](https://www.youtube.com/playlist?list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf) | Advanced C# |
+| [Level D](https://www.youtube.com/playlist?list=PLfHpC6JZ316dwb3MN8W6XuBuyaTA8RVaW) | Advanced C# |
 
 ### Ahmed Mamdouh – ITI
 
@@ -40,7 +40,7 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 | [OOP](https://www.youtube.com/watch?v=jZF0x_xer8M&list=PLNFDrRZdysFxO0fmABq8Ai9Lya-7-VK92) | Object-Oriented Programming |
 | [Advanced C#](https://www.youtube.com/watch?v=kBxCFxOcoWw&list=PLYxGWFnJFttQqA5UPF2OoipOoDt4gXuXt&pp=0gcJCWYDOCosWNin) | Advanced C# |
 
-### Metigator
+### Metigator Paid Courses
 
 | Resource | Notes |
 |---|---|
