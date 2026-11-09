@@ -10,12 +10,15 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 | Resource | Notes |
 |---|---|
-| [Database Fundamentals](https://www.youtube.com/playlist?list=PL37D52B7714788190) | Fundamentals |
-| [Database Advanced](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) | Advanced |
-| [Database Course](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj) | |
+| [Mohamed El Desouky](https://www.youtube.com/playlist?list=PL37D52B7714788190) | Fundamentals |
+| [Mohamed El Desouky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) | Advanced |
+
+| [Esam Abdelnaby](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj) | |
+
 | [MaharaTech – Course 1](https://maharatech.gov.eg/course/view.php?id=740) | Recommended |
 | [MaharaTech – Course 2](https://maharatech.gov.eg/course/view.php?id=2305) | Recommended |
 | [MaharaTech – Course 3](https://maharatech.gov.eg/course/view.php?id=2288) | Recommended |
+
 | [Metigator – Database Course](https://www.metigator.com/) | Paid Courses: You can purchase Essam Abdelnaby's DB Course |
 | [Metigator Engineers Community](https://t.me/MetigatorEngineers) | Community |
 
@@ -41,8 +44,8 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 | Resource | Notes |
 |---|---|
-| [LINQ Course – Resource 1](https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=XIE0NtaPXWU-ZKn4) | |
-| [LINQ Course – Resource 2](https://www.youtube.com/playlist?list=PL62tSREI9C-c8OrLP_atJC_2PXqHKnUme) | |
+| [LINQ - Esam Abdelnaby](https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=XIE0NtaPXWU-ZKn4) | |
+| [LINQ - Mohamed Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-c8OrLP_atJC_2PXqHKnUme) | |
 
 ---
 
