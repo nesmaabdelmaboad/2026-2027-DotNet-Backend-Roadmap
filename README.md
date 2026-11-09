@@ -60,7 +60,7 @@ Dive into ASP.NET Core and advanced backend concepts, and learn how to design, b
 
 ---
 
-## 🚀 Your Journey Starts Here!
+## Your Journey Starts Here!
 
 Learning backend development takes time, consistency, and practice. Focus on understanding the concepts, applying what you learn, and building your problem-solving skills along the way.
 
