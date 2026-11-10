@@ -1,5 +1,9 @@
 # Beginner Level
 
+<p align="center">
+  <img src="../Assets/beginner.png" width="380" alt="Beginner Level">
+</p>
+
 Welcome to the Beginner Level! In this stage, you will build a strong foundation in C# and Object-Oriented Programming (OOP), preparing yourself for the next steps in your .NET Backend journey.
 
 ---
@@ -91,8 +95,12 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 
 You've completed the Beginner Level and built a solid foundation in C# and programming fundamentals.
 
-Keep going! Your next step is the **Intermediate Level**. 🚀
+Keep going! Your next step is the **Intermediate Level**.
 
-➡️ [Go to Intermediate Level](../Intermediate/README.md)
+<p align="center">
+  <a href="../Intermediate/README.md"><strong>Go to Intermediate Level →</strong></a>
+</p>
 
-[⬅️ Back to Main Roadmap](../README.md)
+<p align="center">
+  <a href="../README.md">Back to Main Roadmap</a>
+</p>
