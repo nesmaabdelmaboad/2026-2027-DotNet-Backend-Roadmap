@@ -1,5 +1,9 @@
 # Advanced Level
 
+<p align="center">
+  <img src="../Assets/advanced.png" width="380" alt="Advanced Level">
+</p>
+
 Welcome to the Advanced Level! In this stage, you will dive deeper into software design, testing, ASP.NET Core, and advanced backend development concepts.
 
 The goal is to strengthen your understanding of building scalable, maintainable, and production-ready backend applications.
@@ -10,12 +14,10 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 **Note:** You can choose any ONE of the available learning resources.
 
-### YouTube Courses
-
 | Resource | Notes |
 |---|---|
 | [Esam](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN) | |
-| [ELmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) | |
+| [Elmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) | |
 
 ### Metigator
 
@@ -39,11 +41,18 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 ## 3. ASP.NET Core
 
-### YouTube & Pluralsight
+**Note:** You can choose ONE of the available courses/resources for this topic.
+
+### Elmahdy
 
 | Resource | Notes |
 |---|---|
-| [Elmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) | |
+| [ASP.NET Core – Elmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) | |
+
+### Pluralsight
+
+| Resource | Notes |
+|---|---|
 | [Pluralsight](https://www.pluralsight.com/) | |
 
 ### DevCreed
@@ -70,6 +79,8 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 ## 4. ASP.NET Core MVC
 
+**Note:** You can choose ONE of the following four learning resources.
+
 | Resource | Notes |
 |---|---|
 | [Elhelaly](https://www.youtube.com/watch?v=QPjp7kXvGsg&list=PL62tSREI9C-fqCIAWwBAfhoucD82mSOXp) | |
@@ -93,9 +104,9 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [JWT Tokens – Resource 1](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd) | |
-| [Refresh Tokens – Resource 2](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=onSCNXb-ggnRHRYE) | |
-| [JWT – Crash Course](https://youtu.be/mQHxbGdfWCw?is=1CnYzS5g6BaW5LYR) | Crash Course |
+| [JWT Tokens – Mohamed Elhelaly (DevCreed)](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd) | |
+| [Refresh Tokens – Mohamed Elhelaly](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=onSCNXb-ggnRHRYE) | |
+| [Nesma AbdelMaboud – Crash Course](https://youtu.be/mQHxbGdfWCw?is=1CnYzS5g6BaW5LYR) | Crash Course |
 
 **Important Note:** Make sure to study both topics: JWT and Refresh Tokens. Both are essential and should be covered.
 
@@ -105,19 +116,26 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [.NET Identity – Resource 1](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi) | |
-| [.NET Identity – Resource 2](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) | Videos 65–123 |
-| [.NET Identity – Resource 3](https://www.youtube.com/playlist?list=PL62tSREI9C-fnwdLjHVP9K9GSHg-r7dzR) | |
-| [.NET Identity – Crash Course](https://youtu.be/mQHxbGdfWCw?is=1CnYzS5g6BaW5LYR) | Crash Course |
+| [RoCoding](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi) | |
+| [CodeVinkat](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) | Videos 65–123 |
+| [DevCreed – Mohamed Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-fnwdLjHVP9K9GSHg-r7dzR) | |
+| [Nesma AbdelMaboud – Crash Course](https://youtu.be/mQHxbGdfWCw?is=1CnYzS5g6BaW5LYR) | Crash Course |
 
 ### Hosting & Deployment
 
+#### DevCreed
+
 | Resource | Notes |
 |---|---|
-| [Hosting & Deployment – Resource 1](https://www.youtube.com/watch?v=__2riOjLpoc&list=PL62tSREI9C-fSG5MW3ZnQYWvqmolhOrxX) | |
-| [Hosting & Deployment – Resource 2](https://www.youtube.com/watch?v=h9K1NnqwUvE) | |
-| [Hosting & Deployment – Resource 3](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ) | |
-| [Hosting & Deployment – Resource 4](https://www.youtube.com/watch?v=5abffC-K40c) | |
+| [DevCreed](https://www.youtube.com/watch?v=__2riOjLpoc&list=PL62tSREI9C-fSG5MW3ZnQYWvqmolhOrxX) | Easy Way |
+
+#### Other Hosting Resources
+
+| Resource | Notes |
+|---|---|
+| [Hosting Resource 1](https://www.youtube.com/watch?v=h9K1NnqwUvE) | Hosting |
+| [Hosting Resource 2](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ) | Hosting |
+| [Hosting Resource 3](https://www.youtube.com/watch?v=5abffC-K40c) | Hosting |
 
 ### SignalR Programming
 
@@ -125,33 +143,33 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [SignalR – Resource 1](https://www.youtube.com/playlist?list=PLpKgDC4jSbmcf2F1m53WmhiQZNmqUZoCb) | |
-| [SignalR – Resource 2](https://www.youtube.com/watch?v=mPNWhQw9_mQ&list=PLNFDrRZdysFzsNkZqVnqhRUc1vqNHZY_t) | |
+| [Ahmed Sadek](https://www.youtube.com/playlist?list=PLpKgDC4jSbmcf2F1m53WmhiQZNmqUZoCb) | |
+| [ITI](https://www.youtube.com/watch?v=mPNWhQw9_mQ&list=PLNFDrRZdysFzsNkZqVnqhRUc1vqNHZY_t) | |
 
 ### NoSQL Database Programming
 
 | Resource | Notes |
 |---|---|
-| [NoSQL – Resource 1](https://www.youtube.com/watch?v=0buKQHokLK8) | |
-| [NoSQL – Resource 2](https://www.youtube.com/watch?v=fv2-A5e-KHA) | |
+| [Simply Explained](https://www.youtube.com/watch?v=0buKQHokLK8) | |
+| [freeCodeCamp.org](https://www.youtube.com/watch?v=fv2-A5e-KHA) | |
 
 ### Working with Files
 
 | Resource | Notes |
 |---|---|
-| [Working with Files](https://www.youtube.com/playlist?list=PLOeFnOV9YBa7hs4IXcDh8I20ySpic8-EE) | |
+| [RoCoding](https://www.youtube.com/playlist?list=PLOeFnOV9YBa7hs4IXcDh8I20ySpic8-EE) | |
 
 ### Rate Limiting
 
 | Resource | Notes |
 |---|---|
-| [Rate Limiting](https://www.youtube.com/watch?v=bOfOo3Zsfx0&ab_channel=MohamadLawand) | |
+| [Mohamed Lawand](https://www.youtube.com/watch?v=bOfOo3Zsfx0&ab_channel=MohamadLawand) | |
 
 ### Logging
 
 | Resource | Notes |
 |---|---|
-| [Logging](https://www.youtube.com/watch?v=nVAkSBpsuTk) | |
+| [Milan Jovanović](https://www.youtube.com/watch?v=nVAkSBpsuTk) | |
 
 ---
 
@@ -171,8 +189,8 @@ You've made it through all three levels, but this is not the end of your journey
 
 Remember, this roadmap is just your **first step**. Keep building, keep exploring, and never stop learning.
 
-**Your journey as a .NET Backend Developer has just begun! 🚀**
+**Your journey as a .NET Backend Developer has just begun!**
 
 ---
 
-[⬅️ Back to Main Roadmap](../README.md)
+[Back to Main Roadmap](../README.md)
