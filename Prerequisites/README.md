@@ -1,5 +1,8 @@
-
 # Prerequisites
+
+<p align="center">
+  <img src="../Assets/prerequisites.png" width="380" alt="Prerequisites">
+</p>
 
 Before starting the .NET Backend Roadmap, make sure you are familiar with the essential tools and concepts listed below.
 
@@ -26,15 +29,20 @@ These prerequisites will help you prepare for the learning journey and understan
 | Resource | Notes |
 |---|---|
 | [Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) | Comprehensive |
-| [Abdelrahman Gamal](https://www.youtube.com/playlist?list=PLknwEmKsW8OtLRQPTLms79499meY2D6ij) | Medium |
-| [Yehia Tech](https://youtu.be/Pwatx1n1Ws0) | Crash Course |
 
 ### CSS
 
 | Resource | Notes |
 |---|---|
 | [Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) | Comprehensive |
-| [Abdelrahman Gamal](https://www.youtube.com/playlist?list=PLknwEmKsW8Os7rKViMCL8x6irVJT7McSS) | Medium |
+
+### HTML and CSS Crash Courses
+
+| Resource | Notes |
+|---|---|
+| [Yehia Tech](https://youtu.be/Pwatx1n1Ws0) | Crash Course |
+| [Abdelrahman Gamal – HTML](https://www.youtube.com/playlist?list=PLknwEmKsW8OtLRQPTLms79499meY2D6ij) | HTML |
+| [Abdelrahman Gamal – CSS](https://www.youtube.com/playlist?list=PLknwEmKsW8Os7rKViMCL8x6irVJT7McSS) | CSS |
 | [Codezilla](https://youtu.be/aHzw_8wWl48) | Crash Course |
 
 ---
