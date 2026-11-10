@@ -64,18 +64,18 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 | Resource | Notes |
 |---|---|
-| [LINQ – Essam Abdelnaby](https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=XIE0NtaPXWU-ZKn4) | |
+| [LINQ – Metigator &#124; Issam Abdelnabi](https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=XIE0NtaPXWU-ZKn4) | |
 | [LINQ – Mohamed Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-c8OrLP_atJC_2PXqHKnUme) | |
 
 ---
 
 ## 3. Entity Framework Core (EF Core)
 
-**Note:** You can choose either Essam Abdelnaby's or Helaly's resources. However, if you choose Helaly's course, make sure to watch the first four videos from Essam Abdelnaby's course as well.
+**Note:** You can choose either Metigator | Issam Abdelnabi's or Helaly's resources. However, if you choose Helaly's course, make sure to watch the first four videos from Metigator | Issam Abdelnabi's course as well.
 
 | Resource | Notes |
 |---|---|
-| [EF Core – Essam Abdelnaby](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv) | |
+| [EF Core – Metigator &#124; Issam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv) | |
 | [EF Core – Helaly](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp) | |
 
 ---
@@ -92,8 +92,12 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 You've completed the Intermediate Level and gained a deeper understanding of databases and data management.
 
-Keep pushing forward! Your next step is the **Advanced Level.**
+Keep pushing forward! Your next step is the **Advanced Level**.
 
-[Go to Advanced Level](../Advanced/README.md)
+<p align="center">
+  <a href="../Advanced/README.md"><strong>Go to Advanced Level →</strong></a>
+</p>
 
-[Back to Main Roadmap](../README.md)
+<p align="center">
+  <a href="../README.md">⬅️ Back to Main Roadmap</a>
+</p>
