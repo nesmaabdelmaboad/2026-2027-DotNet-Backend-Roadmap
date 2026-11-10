@@ -1,13 +1,17 @@
 # .NET Backend Developer Roadmap 2026–2027
 
 <p align="center">
+  <img src="./Assets/roadmap-banner.png" width="100%" alt=".NET Backend Developer Roadmap">
+</p>
+
+<p align="center">
   <strong>Welcome to the CIS Team .NET Backend Roadmap!</strong>
   <br>
   A structured learning path to becoming a professional .NET Backend Developer.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,azure,postman&perline=9" alt=".NET Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,azure,postman&perline=9" alt=".NET Backend Technologies">
 </p>
 
 <p align="center">
@@ -20,81 +24,79 @@
 
 This roadmap is designed to guide you through your journey toward becoming a **.NET Backend Developer**.
 
-Whether you're starting from scratch or looking to strengthen your existing knowledge, this roadmap provides a structured learning path that takes you from the essential prerequisites to advanced backend development concepts.
+It provides a structured learning path with carefully selected resources and practical guidance to help you build the skills needed to develop scalable, maintainable, and production-ready backend applications.
 
-It combines carefully selected learning resources with practical topics to help you build a strong foundation and develop the skills needed to create scalable, maintainable, and production-ready applications.
+Whether you're starting your journey or expanding your technical knowledge, this roadmap will help you progress step by step.
 
 ---
 
 ## Learning Path
 
-The roadmap is divided into four main stages. Follow them in order to build your knowledge step by step.
+The roadmap is divided into four stages. Start with the prerequisites and explore each level in order.
 
 ### Prerequisites
 
-Prepare your foundation before starting the journey.
+<p align="center">
+  <img src="./Assets/prerequisites.png" width="75%" alt="Prerequisites">
+</p>
 
-- Introduction to .NET
-- HTML & CSS
-- Git & GitHub
-- Networking Fundamentals
+Prepare your foundation before starting the .NET Backend learning journey.
 
-[Explore Prerequisites](./Prerequisites/README.md)
+<p align="center">
+  **[Explore Prerequisites →](./Prerequisites/README.md)**
+</p>
 
 ---
 
 ### Beginner Level
 
-Build a strong foundation in C# and programming fundamentals.
+<p align="center">
+  <img src="./Assets/beginner.png" width="75%" alt="Beginner Level">
+</p>
 
-- C# Fundamentals
-- Object-Oriented Programming (OOP)
-- Advanced C#
-- Problem Solving
-- SOLID Principles
+Build your programming foundation and start developing your skills with C#.
 
-[Explore Beginner Level](./Beginner/README.md)
+<p align="center">
+  **[Explore Beginner Level →](./Beginner/README.md)**
+</p>
 
 ---
 
 ### Intermediate Level
 
-Learn how to work with databases and data efficiently using .NET.
+<p align="center">
+  <img src="./Assets/intermediate.png" width="75%" alt="Intermediate Level">
+</p>
 
-- Database Fundamentals
-- SQL Practice
-- LINQ
-- Entity Framework Core (EF Core)
+Develop your understanding of databases and learn how to work with data efficiently using .NET.
 
-[Explore Intermediate Level](./Intermediate/README.md)
+<p align="center">
+  **[Explore Intermediate Level →](./Intermediate/README.md)**
+</p>
 
 ---
 
 ### Advanced Level
 
-Dive deeper into building scalable and production-ready backend applications.
+<p align="center">
+  <img src="./Assets/advanced.png" width="75%" alt="Advanced Level">
+</p>
 
-- Design Patterns
-- Unit Testing
-- ASP.NET Core
-- ASP.NET Core MVC
-- Repository Pattern & Unit of Work
-- Authentication & Authorization
-- Hosting & Deployment
-- SignalR
-- Additional Backend Topics
+Explore advanced backend development concepts and learn how to build scalable, maintainable, and production-ready applications.
 
-[Explore Advanced Level](./Advanced/README.md)
+<p align="center">
+  **[Explore Advanced Level →](./Advanced/README.md)**
+</p>
 
 ---
 
 ## How to Use This Roadmap
 
-1. **Follow the learning path:** Start with the Prerequisites and move through the levels in order.
-2. **Choose your resources:** Some topics offer multiple learning resources. Follow the recommendations and notes provided.
-3. **Practice regularly:** Don't just watch courses. Apply what you learn through coding and practical exercises.
-4. **Build projects:** Use your knowledge to build projects and strengthen your problem-solving skills.
-5. **Keep learning:** Revisit topics, explore documentation, and stay updated with the .NET ecosystem.
+1. **Follow the learning path:** Start with the Prerequisites and progress through the levels in order.
+2. **Explore the resources:** Open each level to find its learning materials and recommendations.
+3. **Practice regularly:** Apply what you learn through coding and practical exercises.
+4. **Build projects:** Strengthen your skills by working on practical projects.
+5. **Keep learning:** Explore documentation and stay updated with the .NET ecosystem.
 
 ---
 
@@ -102,12 +104,12 @@ Dive deeper into building scalable and production-ready backend applications.
 
 Our goal is to help aspiring backend developers build a solid technical foundation, develop practical skills, and become capable of designing and implementing real-world backend applications using **C# and .NET**.
 
-This roadmap is a guide, not a finish line. Your progress depends on consistency, practice, and curiosity.
+This roadmap is a starting point for your learning journey. Keep practicing, building, and exploring.
 
 ---
 
 <p align="center">
-  <img src="./Assets/thank-you-cat.gif" width="320" alt="Thank You - .NET Coding Cat">
+  <img src="./Assets/thank-you-cat.gif" width="280" alt="Thank You - .NET Coding Cat">
 </p>
 
 <p align="center">
