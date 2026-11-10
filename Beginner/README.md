@@ -12,14 +12,14 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 
 **Note:** You can either follow one instructor's learning path and use their resources throughout C# Fundamentals, OOP, and Advanced C# topics, or mix and match resources from different instructors based on your preferences.
 
-### Essam Abdelnaby
+### Metigator | Issam Abdelnabi
 
 | Resource | Notes |
 |---|---|
 | [C# Fundamentals, OOP & Advanced C#](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l) | Covers C# Fundamentals, OOP, and Advanced C# |
 | [OOP](https://www.youtube.com/watch?v=vo_vktaAK9o&list=PL4n1Qos4Tb6QqbzOaDvrEAW8C9LN9VSzj&pp=0gcJCR0Ga94AFGB0) | Additional resource to complement the roadmap |
 
-### Mohamed Elmahdy
+### DevCreed | Elhelaly
 
 | Resource | Notes |
 |---|---|
@@ -44,11 +44,11 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 | [OOP](https://www.youtube.com/watch?v=jZF0x_xer8M&list=PLNFDrRZdysFxO0fmABq8Ai9Lya-7-VK92) | Object-Oriented Programming |
 | [Advanced C#](https://www.youtube.com/watch?v=kBxCFxOcoWw&list=PLYxGWFnJFttQqA5UPF2OoipOoDt4gXuXt&pp=0gcJCWYDOCosWNin) | Advanced C# |
 
-### Metigator Paid Courses
+### Metigator | Issam Abdelnabi
 
 | Resource | Notes |
 |---|---|
-| [Metigator – C# Bundle](https://www.metigator.com/) | Paid Courses: You can purchase Essam Abdelnaby's C# Bundle |
+| [C# Bundle](https://www.metigator.com/) | Paid Courses |
 | [Metigator Engineers Community](https://t.me/MetigatorEngineers) | Community |
 
 ---
@@ -65,16 +65,16 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 
 ## 3. SOLID Principles
 
-**Note:** You can choose either Essam Abdelnaby's or Elmahdy's resources. You don't need to study both.
+**Note:** You can choose either Metigator | Issam Abdelnabi's or DevCreed | Elhelaly's resources. You don't need to study both.
 
-### Essam Abdelnaby
+### Metigator | Issam Abdelnabi
 
 | Resource | Notes |
 |---|---|
 | [SOLID Principles – Complete Course](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu) | Complete Course |
 | [SOLID Principles – Workshop](https://www.youtube.com/watch?v=c_UnR7F900s) | Workshop |
 
-### Mohamed Elmahdy
+### DevCreed | Elhelaly
 
 | Resource | Notes |
 |---|---|
