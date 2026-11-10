@@ -1,5 +1,9 @@
 # Intermediate Level
 
+<p align="center">
+  <img src="../Assets/intermediate.png" width="380" alt="Intermediate Level">
+</p>
+
 Welcome to the Intermediate Level! In this stage, you will develop your understanding of databases and data management, and learn how to work with data efficiently using .NET technologies.
 
 ---
@@ -12,8 +16,8 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 | Resource | Notes |
 |---|---|
-| [Fundamentals](https://www.youtube.com/playlist?list=PL37D52B7714788190) | Fundamentals |
-| [Advanced](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) | Advanced |
+| [Fundamentals](https://www.youtube.com/playlist?list=PL37D52B7714788190) | |
+| [Advanced](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) | |
 
 ### Essam Abdelnaby
 
@@ -86,8 +90,8 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 You've completed the Intermediate Level and gained a deeper understanding of databases and data management.
 
-Keep pushing forward! Your next step is the **Advanced Level. 🚀**
+Keep pushing forward! Your next step is the **Advanced Level.**
 
-➡️ [Go to Advanced Level](../Advanced/README.md)
+[Go to Advanced Level](../Advanced/README.md)
 
-[⬅️ Back to Main Roadmap](../README.md)
+[Back to Main Roadmap](../README.md)
