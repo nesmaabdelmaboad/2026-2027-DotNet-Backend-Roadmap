@@ -141,6 +141,6 @@ Remember, this roadmap is your **first step**. Keep building, keep exploring, an
 
 ---
 
-**Maintained by:** [Nesma AbdelMaboud](https://www.linkedin.com/in/nesma-abdelmaboud)
+**Maintained by:** [Nesma AbdelMaboud](https://github.com/nesmaabdelmaboad)
 
 **CIS Team | 2026–2027**
