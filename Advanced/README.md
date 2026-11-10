@@ -16,10 +16,10 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [Esam](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN) | |
+| [Metigator &#124; Issam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN) | |
 | [Elmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) | |
 
-### Metigator | Issam Abdelnabi
+### Metigator Paid Course
 
 | Resource | Notes |
 |---|---|
@@ -34,7 +34,7 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [Esam](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A) | |
+| [Metigator &#124; Issam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A) | |
 | [Elmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NS2O4QeWFVHOOALoehl22vU) | |
 
 ---
@@ -61,7 +61,7 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 |---|---|
 | [.NET REST API](https://www.devcreed.net/courses/details/dotnet-rest-api) | Paid – Recommended |
 
-### Metigator | Issam Abdelnabi
+### Metigator Paid Course
 
 | Resource | Notes |
 |---|---|
@@ -83,10 +83,10 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [DevCreed &#124; Elhelaly – MVC Course](https://www.devcreed.net/courses/details/dotnet-mvc-course) | Paid |
+| [Elhelaly](https://www.youtube.com/watch?v=QPjp7kXvGsg&list=PL62tSREI9C-fqCIAWwBAfhoucD82mSOXp) | |
 | [Pluralsight](https://www.pluralsight.com/) | |
 | [ITI](https://www.youtube.com/watch?v=x6TuKY4YMGo&list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL) | |
-| [DevCreed &#124; Elhelaly](https://www.youtube.com/watch?v=QPjp7kXvGsg&list=PL62tSREI9C-fqCIAWwBAfhoucD82mSOXp) | |
+| [DevCreed &#124; Elhelaly – MVC Course](https://www.devcreed.net/courses/details/dotnet-mvc-course) | Paid |
 
 ---
 
@@ -116,18 +116,18 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [RoCoding](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi) | |
+| [Raw Coding](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi) | |
 | [Kudvenkat](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) | Videos 65–123 |
 | [DevCreed &#124; Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-fnwdLjHVP9K9GSHg-r7dzR) | |
 | [Nesma AbdelMaboud – Crash Course](https://youtu.be/mQHxbGdfWCw?is=1CnYzS5g6BaW5LYR) | Crash Course |
 
 ### Hosting & Deployment
 
-#### DevCreed
+#### DevCreed | Elhelaly
 
 | Resource | Notes |
 |---|---|
-| [DevCreed](https://www.youtube.com/watch?v=__2riOjLpoc&list=PL62tSREI9C-fSG5MW3ZnQYWvqmolhOrxX) | Easy Way |
+| [DevCreed &#124; Elhelaly](https://www.youtube.com/watch?v=__2riOjLpoc&list=PL62tSREI9C-fSG5MW3ZnQYWvqmolhOrxX) | Easy Way |
 
 #### The Real Hosting Resources
 
@@ -157,7 +157,7 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [RoCoding](https://www.youtube.com/playlist?list=PLOeFnOV9YBa7hs4IXcDh8I20ySpic8-EE) | |
+| [Raw Coding](https://www.youtube.com/playlist?list=PLOeFnOV9YBa7hs4IXcDh8I20ySpic8-EE) | |
 
 ### Rate Limiting
 
