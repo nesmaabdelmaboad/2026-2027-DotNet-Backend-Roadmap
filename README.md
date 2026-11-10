@@ -1,67 +1,113 @@
-# .NET Backend Roadmap 2026–2027
+# 🚀 .NET Backend Developer Roadmap 2026–2027
 
-Welcome to the **CIS Team .NET Backend Roadmap**!
+<p align="center">
+  <strong>Welcome to the CIS Team .NET Backend Roadmap!</strong>
+  <br>
+  A structured learning path to becoming a professional .NET Backend Developer.
+</p>
 
-This roadmap is designed to guide you through your journey toward becoming a .NET Backend Developer, starting with the essential prerequisites and progressing through the core and advanced concepts of backend development.
+<p align="center">
+  <img src="https://img.shields.io/badge/Year-2026--2027-blue?style=for-the-badge" alt="Roadmap Year">
+  <img src="https://img.shields.io/badge/Technology-.NET-purple?style=for-the-badge" alt=".NET">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-green?style=for-the-badge" alt="Backend Development">
+</p>
 
-Whether you're building your foundation or expanding your technical knowledge, this roadmap will help you learn step by step through structured resources and practical projects.
+---
+
+## 📌 About the Roadmap
+
+This roadmap is designed to guide you through your journey toward becoming a **.NET Backend Developer**.
+
+Whether you're starting from scratch or looking to strengthen your existing knowledge, this roadmap provides a structured learning path that takes you from the essential prerequisites to advanced backend development concepts.
+
+It combines carefully selected learning resources with practical topics to help you build a strong foundation and develop the skills needed to create scalable, maintainable, and production-ready applications.
 
 ---
 
 ## 🗺️ Learning Path
 
-The roadmap is divided into four main stages:
+The roadmap is divided into four main stages. Follow them in order to build your knowledge step by step.
 
-| Stage | Description |
-|---|---|
-| **Prerequisites** | Get familiar with the essential tools and concepts needed before starting the technical roadmap. |
-| **Beginner** | Build a strong foundation in C#, Object-Oriented Programming, and fundamental programming concepts. |
-| **Intermediate** | Learn database fundamentals, SQL, LINQ, and Entity Framework Core. |
-| **Advanced** | Explore advanced backend development concepts and build production-ready applications using ASP.NET Core. |
+### 🛠️ Prerequisites
 
-## 📚 Roadmap Sections
+**Prepare your foundation before starting the journey.**
 
-### 1. Prerequisites
-Get ready for the journey by learning the essential foundations and tools.
+- Introduction to .NET
+- HTML & CSS
+- Git & GitHub
+- Networking Fundamentals
 
-➡️ [Explore Prerequisites](./Prerequisites/README.md)
-
-### 2. Beginner Level
-Start with C# fundamentals and gradually develop your programming skills through Object-Oriented Programming and related concepts.
-
-➡️ [Explore Beginner Level](./Beginner/README.md)
-
-### 3. Intermediate Level
-Learn how to work with databases, write SQL queries, and interact with data using LINQ and Entity Framework Core.
-
-➡️ [Explore Intermediate Level](./Intermediate/README.md)
-
-### 4. Advanced Level
-Dive into ASP.NET Core and advanced backend concepts, and learn how to design, build, and improve backend applications.
-
-➡️ [Explore Advanced Level](./Advanced/README.md)
+➡️ **[Explore Prerequisites](./Prerequisites/README.md)**
 
 ---
 
-## 📌 How to Use This Roadmap
+### 🌱 Beginner Level
 
-- Follow the roadmap in order, starting with the Prerequisites.
-- Each level contains learning resources, written revision materials, and weekly tasks.
-- Follow the weekly tasks and apply what you learn to the project assigned to your current level.
-- Review the available resources and choose according to the instructions provided in each section.
-- Stay consistent, ask questions, and make sure you understand the concepts before moving forward.
+**Build a strong foundation in C# and programming fundamentals.**
 
-## 📝 Important Notes
+- C# Fundamentals
+- Object-Oriented Programming (OOP)
+- Advanced C#
+- Problem Solving
+- SOLID Principles
 
-- Written revision materials (summaries and notes) and weekly tasks will be added gradually throughout the season.
-- Some topics may be covered through shared sessions or activities with other tracks.
-- The roadmap is a learning guide, not a limit. Feel free to explore additional resources whenever you need a deeper understanding.
-- The projects included in each level are part of the learning journey. The Graduation Project is a separate stage with its own requirements.
+➡️ **[Explore Beginner Level](./Beginner/README.md)**
 
 ---
 
-## Your Journey Starts Here!
+### 📚 Intermediate Level
 
-Learning backend development takes time, consistency, and practice. Focus on understanding the concepts, applying what you learn, and building your problem-solving skills along the way.
+**Learn how to work with databases and data efficiently using .NET.**
 
-**Keep learning, keep building, and enjoy the journey!**
+- Database Fundamentals
+- SQL Practice
+- LINQ
+- Entity Framework Core (EF Core)
+
+➡️ **[Explore Intermediate Level](./Intermediate/README.md)**
+
+---
+
+### 🚀 Advanced Level
+
+**Dive deeper into building scalable and production-ready backend applications.**
+
+- Design Patterns
+- Unit Testing
+- ASP.NET Core
+- ASP.NET Core MVC
+- Repository Pattern & Unit of Work
+- Authentication & Authorization
+- Hosting & Deployment
+- SignalR
+- Additional Backend Topics
+
+➡️ **[Explore Advanced Level](./Advanced/README.md)**
+
+---
+
+## 📖 How to Use This Roadmap
+
+1. **Follow the learning path:** Start with the Prerequisites and move through the levels in order.
+2. **Choose your resources:** Some topics offer multiple learning resources. Follow the recommendations and notes provided.
+3. **Practice regularly:** Don't just watch courses. Apply what you learn through coding and practical exercises.
+4. **Build projects:** Use your knowledge to build projects and strengthen your problem-solving skills.
+5. **Keep learning:** Revisit topics, explore documentation, and stay updated with the .NET ecosystem.
+
+---
+
+## 🎯 Our Goal
+
+Our goal is to help aspiring backend developers build a solid technical foundation, develop practical skills, and become capable of designing and implementing real-world backend applications using **C# and .NET**.
+
+This roadmap is a guide, not a finish line. Your progress depends on consistency, practice, and curiosity.
+
+---
+
+<p align="center">
+  <strong>Keep Learning. Keep Building. Keep Growing. 💙</strong>
+  <br>
+  <strong>Happy Learning! 🚀</strong>
+  <br><br>
+  <sub>Created with ❤️ by CIS Team | 2026–2027</sub>
+</p>
