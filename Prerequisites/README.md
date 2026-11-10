@@ -15,7 +15,7 @@ These prerequisites will help you prepare for the learning journey and understan
 | Resource | Notes |
 |---|---|
 | [Codographia](https://youtu.be/oRzjtOJGvWA) | Required |
-| [Metigator](https://youtu.be/6xe5elw7JCY) | Required |
+| [Metigator | Issam Abdelnabi](https://youtu.be/6xe5elw7JCY) | Required |
 | [Ed Andersen](https://www.youtube.com/watch?v=Vu_Naq3iWUA) | Required |
 
 ---
@@ -49,18 +49,18 @@ These prerequisites will help you prepare for the learning journey and understan
 
 ## 3. Git & GitHub
 
-**Note:** Choose **ONE** of the two recommended courses: Big Data or Issam Abdelnabi (Metigator).
+**Note:** Choose **ONE** of the two recommended courses: Big Data or Metigator | Issam Abdelnabi.
 
 | Resource | Notes |
 |---|---|
 | [Big Data](https://www.youtube.com/watch?v=Q6G-J54vgKc) | Recommended – Medium |
-| [Issam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE) | Recommended – Medium |
+| [Metigator | Issam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE) | Recommended – Medium |
 | [Udemy – Practical Guide to Git & GitHub](https://www.udemy.com/course/git-github-practical-guide/) | Comprehensive |
 | [Ghareeb Elshaikh](https://youtu.be/fDkR0TDR9dI) | Crash Course |
 
 **Additional Notes:**
 - Big Data provides good coverage with more theoretical details. Some advanced theoretical parts may not be necessary for beginners.
-- Issam Abdelnabi provides a good, balanced explanation of Git and version control concepts.
+- Metigator | Issam Abdelnabi provides a good, balanced explanation of Git and version control concepts.
 
 ---
 
