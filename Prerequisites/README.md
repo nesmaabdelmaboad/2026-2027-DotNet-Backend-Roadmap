@@ -49,18 +49,18 @@ These prerequisites will help you prepare for the learning journey and understan
 
 ## 3. Git & GitHub
 
-**Note:** Choose **ONE** of the two recommended courses: Big Data or Essam Abdelnaby (Metigator).
+**Note:** Choose **ONE** of the two recommended courses: Big Data or Issam Abdelnabi (Metigator).
 
 | Resource | Notes |
 |---|---|
 | [Big Data](https://www.youtube.com/watch?v=Q6G-J54vgKc) | Recommended – Medium |
-| [Essam Abdelnaby](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE) | Recommended – Medium |
+| [Issam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE) | Recommended – Medium |
 | [Udemy – Practical Guide to Git & GitHub](https://www.udemy.com/course/git-github-practical-guide/) | Comprehensive |
 | [Ghareeb Elshaikh](https://youtu.be/fDkR0TDR9dI) | Crash Course |
 
 **Additional Notes:**
 - Big Data provides good coverage with more theoretical details. Some advanced theoretical parts may not be necessary for beginners.
-- Essam Abdelnaby provides a good, balanced explanation of Git and version control concepts.
+- Issam Abdelnabi provides a good, balanced explanation of Git and version control concepts.
 
 ---
 
@@ -68,7 +68,7 @@ These prerequisites will help you prepare for the learning journey and understan
 
 | Resource | Notes |
 |---|---|
-| [Networking Fundamentals Playlist](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml) | |
+| [Networking for Web Developers](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml) | |
 
 ---
 
