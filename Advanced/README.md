@@ -19,11 +19,11 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 | [Esam](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN) | |
 | [Elmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) | |
 
-### Metigator
+### Metigator | Issam Abdelnabi
 
 | Resource | Notes |
 |---|---|
-| [Design Patterns Course](https://www.metigator.com/) | Paid Course by Essam Abdelnaby |
+| [Design Patterns Course](https://www.metigator.com/) | Paid Course by Issam Abdelnabi |
 | [Metigator Engineers Community](https://t.me/MetigatorEngineers) | Community |
 
 ---
@@ -55,18 +55,18 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 |---|---|
 | [Pluralsight](https://www.pluralsight.com/) | |
 
-### DevCreed
+### DevCreed | Elhelaly
 
 | Resource | Notes |
 |---|---|
 | [.NET REST API](https://www.devcreed.net/courses/details/dotnet-rest-api) | Paid – Recommended |
 
-### Metigator
+### Metigator | Issam Abdelnabi
 
 | Resource | Notes |
 |---|---|
 | [Explanatory Video](https://www.youtube.com/watch?v=2VraSFzBWj4) | |
-| [Mastering ASP.NET Core: Concepts to Production-Ready APIs](https://metigator.teachable.com/p/mastering-asp-net-core-concepts-to-production-ready-apis/) | Paid Course by Essam Abdelnaby |
+| [Mastering ASP.NET Core: Concepts to Production-Ready APIs](https://metigator.teachable.com/p/mastering-asp-net-core-concepts-to-production-ready-apis/) | Paid Course by Issam Abdelnabi |
 | [Metigator Engineers Community](https://t.me/MetigatorEngineers) | Community |
 
 ### ITI
@@ -83,10 +83,10 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [Elhelaly](https://www.youtube.com/watch?v=QPjp7kXvGsg&list=PL62tSREI9C-fqCIAWwBAfhoucD82mSOXp) | |
+| [DevCreed &#124; Elhelaly – MVC Course](https://www.devcreed.net/courses/details/dotnet-mvc-course) | Paid |
 | [Pluralsight](https://www.pluralsight.com/) | |
 | [ITI](https://www.youtube.com/watch?v=x6TuKY4YMGo&list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL) | |
-| [DevCreed – MVC Course](https://www.devcreed.net/courses/details/dotnet-mvc-course) | Paid |
+| [DevCreed &#124; Elhelaly](https://www.youtube.com/watch?v=QPjp7kXvGsg&list=PL62tSREI9C-fqCIAWwBAfhoucD82mSOXp) | |
 
 ---
 
@@ -98,14 +98,14 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 | Resource | Notes |
 |---|---|
-| [Repository Pattern and Unit of Work](https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73) | |
+| [DevCreed &#124; Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73) | |
 
 ### JWT Tokens
 
 | Resource | Notes |
 |---|---|
-| [JWT Tokens – Mohamed Elhelaly (DevCreed)](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd) | |
-| [Refresh Tokens – Mohamed Elhelaly](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=onSCNXb-ggnRHRYE) | |
+| [DevCreed &#124; Elhelaly – JWT Tokens](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd) | |
+| [DevCreed &#124; Elhelaly – Refresh Tokens](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=onSCNXb-ggnRHRYE) | |
 | [Nesma AbdelMaboud – Crash Course](https://youtu.be/mQHxbGdfWCw?is=1CnYzS5g6BaW5LYR) | Crash Course |
 
 **Important Note:** Make sure to study both topics: JWT and Refresh Tokens. Both are essential and should be covered.
@@ -117,8 +117,8 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 | Resource | Notes |
 |---|---|
 | [RoCoding](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi) | |
-| [CodeVinkat](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) | Videos 65–123 |
-| [DevCreed – Mohamed Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-fnwdLjHVP9K9GSHg-r7dzR) | |
+| [Kudvenkat](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) | Videos 65–123 |
+| [DevCreed &#124; Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-fnwdLjHVP9K9GSHg-r7dzR) | |
 | [Nesma AbdelMaboud – Crash Course](https://youtu.be/mQHxbGdfWCw?is=1CnYzS5g6BaW5LYR) | Crash Course |
 
 ### Hosting & Deployment
@@ -129,7 +129,7 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 |---|---|
 | [DevCreed](https://www.youtube.com/watch?v=__2riOjLpoc&list=PL62tSREI9C-fSG5MW3ZnQYWvqmolhOrxX) | Easy Way |
 
-#### Other Hosting Resources
+#### The Real Hosting Resources
 
 | Resource | Notes |
 |---|---|
@@ -181,16 +181,10 @@ The goal is to strengthen your understanding of building scalable, maintainable,
 
 ---
 
-## Congratulations on Completing the Advanced Level!
+## Congratulations!
 
-You've made it through all three levels, but this is not the end of your journey!
+You've successfully completed the Advanced Level!
 
-.NET is a constantly evolving world, and there's always something new to learn and explore. The more you practice, the more backend concepts you'll discover and master.
-
-Remember, this roadmap is just your **first step**. Keep building, keep exploring, and never stop learning.
-
-**Your journey as a .NET Backend Developer has just begun!**
-
----
-
-[Back to Main Roadmap](../README.md)
+<p align="center">
+  <a href="../README.md">⬅️ Back to Main Roadmap</a>
+</p>
