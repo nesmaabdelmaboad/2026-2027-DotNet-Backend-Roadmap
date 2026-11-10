@@ -20,6 +20,10 @@
 
 ---
 
+**Note:** Written revision materials (summaries and notes) and weekly tasks will be added gradually throughout the season.
+
+---
+
 ## About the Roadmap
 
 This roadmap is designed to guide you through your journey toward becoming a **.NET Backend Developer**.
