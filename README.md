@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,mssql,git,github,docker,azure,postman&perline=10" alt=".NET Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,azure,postman&perline=9" alt=".NET Backend Technologies" />
 </p>
 
 <p align="center">
@@ -107,7 +107,28 @@ This roadmap is a guide, not a finish line. Your progress depends on consistency
 ---
 
 <p align="center">
-  <strong>Keep Learning. Keep Building. Keep Growing.</strong>
-  <br><br>
-  Created by CIS Team | 2026–2027
+  <img src="./Assets/thank-you-cat.gif" width="320" alt="Thank You - .NET Coding Cat">
 </p>
+
+<p align="center">
+  <strong>Thanks for being part of the journey!</strong>
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nesma-abdelmaboud">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:nesma.abdelmaboud.fayez@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+**Maintained by:** [Nesma AbdelMaboud](https://www.linkedin.com/in/nesma-abdelmaboud)
+
+**CIS Team | 2026–2027**
