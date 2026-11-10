@@ -35,11 +35,11 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 | [Course 2 – Intermediate Fundamentals](https://maharatech.gov.eg/course/view.php?id=2305) | Builds on Course 1 |
 | [Course 3 – Advanced Database Concepts](https://maharatech.gov.eg/course/view.php?id=2288) | Very Advanced |
 
-### Metigator
+### Metigator Paid Course
 
 | Resource | Notes |
 |---|---|
-| [Metigator Paid Course](https://www.metigator.com/) | Database Course by Issam Abdelnabi |
+| [Database Course](https://www.metigator.com/) | Paid Course by Issam Abdelnabi |
 | [Metigator Engineers Community](https://t.me/MetigatorEngineers) | Community |
 
 ### Database Internals (Optional)
@@ -64,19 +64,19 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 | Resource | Notes |
 |---|---|
-| [LINQ – Metigator &#124; Issam Abdelnabi](https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=XIE0NtaPXWU-ZKn4) | |
-| [LINQ – DevCreed &#124; Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-c8OrLP_atJC_2PXqHKnUme) | |
+| [LINQ – Essam Abdelnaby](https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=XIE0NtaPXWU-ZKn4) | |
+| [LINQ – Mohamed Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-c8OrLP_atJC_2PXqHKnUme) | |
 
 ---
 
 ## 3. Entity Framework Core (EF Core)
 
-**Note:** You can choose either Metigator | Issam Abdelnabi's or DevCreed | Elhelaly's resources. However, if you choose DevCreed | Elhelaly's course, make sure to watch the first four videos from Metigator | Issam Abdelnabi's course as well.
+**Note:** You can choose either Essam Abdelnaby's or Helaly's resources. However, if you choose Helaly's course, make sure to watch the first four videos from Essam Abdelnaby's course as well.
 
 | Resource | Notes |
 |---|---|
-| [EF Core – Metigator &#124; Issam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv) | |
-| [EF Core – DevCreed &#124; Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp) | |
+| [EF Core – Essam Abdelnaby](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv) | |
+| [EF Core – Helaly](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp) | |
 
 ---
 
