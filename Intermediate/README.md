@@ -27,11 +27,13 @@ Welcome to the Intermediate Level! In this stage, you will develop your understa
 
 ### MaharaTech
 
+**Note:** These three courses are connected and designed to be studied sequentially. Each course builds on the knowledge gained from the previous one.
+
 | Resource | Notes |
 |---|---|
-| [Course 1](https://maharatech.gov.eg/course/view.php?id=740) | Recommended |
-| [Course 2](https://maharatech.gov.eg/course/view.php?id=2305) | Recommended |
-| [Course 3](https://maharatech.gov.eg/course/view.php?id=2288) | Recommended |
+| [Course 1 – Basic Introduction](https://maharatech.gov.eg/course/view.php?id=740) | Very Basic Fundamentals |
+| [Course 2 – Intermediate Fundamentals](https://maharatech.gov.eg/course/view.php?id=2305) | Builds on Course 1 |
+| [Course 3 – Advanced Database Concepts](https://maharatech.gov.eg/course/view.php?id=2288) | Very Advanced |
 
 ### Metigator
 
