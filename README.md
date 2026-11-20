@@ -1,4 +1,3 @@
-
 # .NET Backend Developer Roadmap 2026–2027
 
 <p align="center">
@@ -42,7 +41,7 @@ The roadmap is divided into four stages. Start with the prerequisites and explor
 ### Prerequisites
 
 <p align="center">
-  <img src="./Assets/curved-click-arrow.gif" width="150" alt="Click Arrow">
+  <img src="./Assets/prerequisites.png" width="380" alt="Prerequisites">
 </p>
 
 Prepare your foundation before starting the .NET Backend learning journey.
@@ -56,7 +55,7 @@ Prepare your foundation before starting the .NET Backend learning journey.
 ### Beginner Level
 
 <p align="center">
-  <img src="./Assets/curved-click-arrow.gif" width="150" alt="Click Arrow">
+  <img src="./Assets/beginner.png" width="380" alt="Beginner Level">
 </p>
 
 Build your programming foundation and start developing your skills with C#.
@@ -70,7 +69,7 @@ Build your programming foundation and start developing your skills with C#.
 ### Intermediate Level
 
 <p align="center">
-  <img src="./Assets/curved-click-arrow.gif" width="150" alt="Click Arrow">
+  <img src="./Assets/intermediate.png" width="380" alt="Intermediate Level">
 </p>
 
 Develop your understanding of databases and learn how to work with data efficiently using .NET.
@@ -84,7 +83,7 @@ Develop your understanding of databases and learn how to work with data efficien
 ### Advanced Level
 
 <p align="center">
-  <img src="./Assets/curved-click-arrow.gif" width="150" alt="Click Arrow">
+  <img src="./Assets/advanced.png" width="380" alt="Advanced Level">
 </p>
 
 Explore advanced backend development concepts and learn how to build scalable, maintainable, and production-ready applications.
@@ -139,13 +138,13 @@ Remember, this roadmap is your **first step**. Keep building, keep exploring, an
   <a href="https://www.linkedin.com/in/nesma-abdelmaboud">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:nesma.abdelmaboud.fayez@gmail.com">
+  <a href="mailto:nesma[.abdelmaboud.fayez@gmail.com](mailto:.abdelmaboud.fayez@gmail.com)">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
-**Maintained by:** [Nesma AbdelMaboud](https://github.com/nesmaabdelmaboad)
+**Maintained by:** [Nesma AbdelMaboud]\([https://github.com/nesmaabdelmaboad](https://github.com/nesmaabdelmaboad))\
 
 **CIS Team | 2026–2027**
