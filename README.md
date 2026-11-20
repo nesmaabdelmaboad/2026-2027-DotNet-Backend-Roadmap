@@ -1,3 +1,4 @@
+
 # .NET Backend Developer Roadmap 2026–2027
 
 <p align="center">
@@ -138,13 +139,13 @@ Remember, this roadmap is your **first step**. Keep building, keep exploring, an
   <a href="https://www.linkedin.com/in/nesma-abdelmaboud">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:nesma[.abdelmaboud.fayez@gmail.com](mailto:.abdelmaboud.fayez@gmail.com)">
+  <a href="mailto:nesma.abdelmaboud.fayez@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
-**Maintained by:** [Nesma AbdelMaboud]\([https://github.com/nesmaabdelmaboad](https://github.com/nesmaabdelmaboad))\
+**Maintained by:** [Nesma AbdelMaboud](https://github.com/nesmaabdelmaboad)
 
 **CIS Team | 2026–2027**
