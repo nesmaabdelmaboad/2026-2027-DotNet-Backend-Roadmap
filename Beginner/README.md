@@ -44,7 +44,7 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 | [OOP](https://www.youtube.com/watch?v=jZF0x_xer8M&list=PLNFDrRZdysFxO0fmABq8Ai9Lya-7-VK92) | Object-Oriented Programming |
 | [Advanced C#](https://www.youtube.com/watch?v=kBxCFxOcoWw&list=PLYxGWFnJFttQqA5UPF2OoipOoDt4gXuXt&pp=0gcJCWYDOCosWNin) | Advanced C# |
 
-### Metigator | Issam Abdelnabi
+### Metigator Paid Course
 
 | Resource | Notes |
 |---|---|
