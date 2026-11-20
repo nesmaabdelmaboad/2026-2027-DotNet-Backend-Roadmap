@@ -65,7 +65,7 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 
 ## 3. SOLID Principles
 
-**Note:** You can choose either Metigator | Issam Abdelnabi's or DevCreed | Elhelaly's resources. You don't need to study both.
+**Note:** You can choose either Metigator | Issam Abdelnabi's or Elmahdy's resources. You don't need to study both.
 
 ### Metigator | Issam Abdelnabi
 
@@ -74,7 +74,7 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 | [SOLID Principles – Complete Course](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu) | Complete Course |
 | [SOLID Principles – Workshop](https://www.youtube.com/watch?v=c_UnR7F900s) | Workshop |
 
-### DevCreed | Elhelaly
+### Elmahdy
 
 | Resource | Notes |
 |---|---|
