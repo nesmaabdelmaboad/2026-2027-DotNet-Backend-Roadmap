@@ -48,7 +48,7 @@ Welcome to the Beginner Level! In this stage, you will build a strong foundation
 
 | Resource | Notes |
 |---|---|
-| [C# Bundle](https://www.metigator.com/) | Paid Courses |
+| [C# Bundle](https://www.metigator.com/) | Paid Course by Issam Abdelnabi|
 | [Metigator Engineers Community](https://t.me/MetigatorEngineers) | Community |
 
 ---
